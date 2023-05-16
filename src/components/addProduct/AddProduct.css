@@ -1,0 +1,46 @@
+.image{
+    background-image: url(../img/2.jpg);
+    width: 100px;
+    height: 300px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.product-card{
+    width: 900px;
+    height: 450px;
+    border-radius: 5px;
+    
+}
+.app{
+    display: grid;
+    grid-template-columns: 350px 350px 350px;
+    justify-content: center;
+  }
+  /* .add-button{
+    height: 80px;
+    width: 80px;
+    border-radius: 50%;
+    right: 465px;
+    top: 50px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+  } */
+  /* .add-button{
+    font: inherit;
+    letter-spacing: inherit;
+    color: currentColor;
+    padding: 4px 0 5px;
+    border: 1  lightslategray;
+    box-sizing: content-box;
+    background: none;
+    height: 1.4375em;
+    margin: 0;
+    -webkit-tap-highlight-color: transparent;
+    display: block;
+    min-width: 0;
+    width: 130px;
+    -webkit-animation-name: mui-auto-fill-cancel;
+    animation-name: mui-auto-fill-cancel;
+    -webkit-animation-duration: 10ms;
+    animation-duration: 10ms;
+    padding: 16.5px 14px;
+  } */

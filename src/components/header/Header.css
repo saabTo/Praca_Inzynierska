@@ -1,0 +1,38 @@
+.header-background{
+    background-color: darkseagreen;
+    height: 60px;
+}
+
+.menu-button{
+    width: 30px;
+    height: 30px;
+    margin-left: 15px;
+    margin-top: 10px;
+    background-color: #FFE8D6;
+    width: calc(40px);
+    height: calc(40px);
+    padding: calc(10px);
+    box-sizing: border-box;
+    
+}
+
+.sidemenu{
+    background-color: #CB997E;
+    height: 90vh;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    width: 250px;
+    opacity: 80%;
+    transition: 850ms;
+
+}
+.sidemenu-text{
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    padding: 8px 0px 8px 16px;
+    list-style: none;
+    height: 60px;
+    text-decoration: none;
+}

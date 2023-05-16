@@ -1,0 +1,11 @@
+.user-control{
+    float: right;
+    margin-top: 10px;
+    background-color: #FFE8D6;
+    width: calc(40px);
+    height: calc(40px);
+    padding: calc(8px);
+    box-sizing: border-box;
+    margin-right: 20px;
+    border-radius: 5px;
+}

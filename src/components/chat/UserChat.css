@@ -1,0 +1,52 @@
+.text-right {
+    text-align: right;
+}
+.text-left {
+    text-align: left;
+}
+
+.card {
+    margin: 20px 0;
+}
+
+.list-group-item {
+    border: none;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+.form-control {
+    width: 50%;
+    margin-bottom: 10px;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.btn {
+    width: 100%;
+    margin-top: 20px;
+    padding: 10px;
+    background-color: blue;
+    color: white;
+    border-radius: 5px;
+}
+.my-container {
+    background-color: #f2f2f2;
+  }
+
+  .from-me {
+    display: flex;
+    flex-direction: row-reverse;
+  }
+  
+  .from-them {
+    display: flex;
+    flex-direction: row;
+  }
+  .message {
+    background-color: #f5f5f5; /* zmiana koloru tła */
+  }
